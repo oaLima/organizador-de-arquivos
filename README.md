@@ -50,7 +50,8 @@ Downloads/
 
 🛠️ Tecnologias utilizadas
 Python
-Pathlib - manipular caminhos de arquivos e diretórios de forma simples e segura 
+OS
+shutil
 
 📚 Conceitos praticados
 
